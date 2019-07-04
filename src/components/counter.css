@@ -1,0 +1,9 @@
+*{
+    margin: 0 auto;
+}
+
+.badcolor{
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+}
